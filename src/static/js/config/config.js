@@ -1,5 +1,5 @@
 export const CONFIG = {
-    API: {
+API: {
         VERSION: 'v1beta',
         MODEL_NAME: 'models/gemini-live-2.5-flash-preview',
         SERVER_URL: `${wsProtocol}//${window.location.host}`,
